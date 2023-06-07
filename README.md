@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bug-superman)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bug-superman)](https://github.com/anuraghazra/github-readme-stats)
+
