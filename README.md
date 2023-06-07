@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bug-superman&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bug-superman&repo=convoychat" />
-</a>
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bug-superman)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bug-superman)](https://github.com/anuraghazra/github-readme-stats)
